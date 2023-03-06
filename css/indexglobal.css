@@ -1,0 +1,29 @@
+:root {
+  /* fonts */
+  --text-small-link: Roboto;
+  --font-inter: Inter;
+  --font-red-rose: "Red Rose";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-sm: 6px;
+  --text-small-link-size: 14px;
+  --font-size-lg: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --black: #000;
+  --color-darkred: #9f2404;
+
+  /* Gaps */
+  --gap-md: 14px;
+
+  /* Paddings */
+  --padding-sm: 8px;
+  --padding-md: 11px;
+  --padding-lg: 53px;
+
+  /* border radiuses */
+  --br-sm: 5px;
+  --br-md: 10px;
+}

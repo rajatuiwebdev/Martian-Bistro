@@ -1,0 +1,13 @@
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* Colors */
+  --color-white: #fff;
+
+  /* Paddings */
+  --padding-md: 10px;
+
+  /* border radiuses */
+  --br-md: 10px;
+}

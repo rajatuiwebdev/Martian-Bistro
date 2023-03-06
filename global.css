@@ -1,0 +1,20 @@
+:root {
+  /* fonts */
+  --heading-h2: Roboto;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --text-regular-normal-size: 16px;
+  --text-medium-normal-size: 18px;
+  --heading-h2-size: 48px;
+
+  /* Colors */
+  --white: #fff;
+
+  /* Gaps */
+  --gap-sm: 8px;
+  --gap-md: 24px;
+
+  /* Paddings */
+  --padding-md: 12px;
+}

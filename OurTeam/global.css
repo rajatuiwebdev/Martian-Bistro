@@ -1,0 +1,20 @@
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-base: 14px;
+  --font-size-lg: 20px;
+
+  /* Colors */
+  --color-gainsboro: #dcdcdc;
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-sm: 7px;
+  --gap-md: 50px;
+
+  /* Paddings */
+  --padding-sm: 14px;
+  --padding-md: 18px;
+}

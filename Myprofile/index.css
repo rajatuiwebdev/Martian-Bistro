@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.my-profile {
+  position: absolute;
+  top: 38px;
+  left: 107px;
+  line-height: 150%;
+  font-weight: 800;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.user-name {
+  position: absolute;
+  top: 107px;
+  left: 0;
+  line-height: 150%;
+  font-weight: 600;
+}
+.ellipse-parent {
+  position: relative;
+  width: 112px;
+  height: 137px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 20px;
+  font-family: var(--font-poppins);
+}
+.email,
+.hackhoundgmailcom {
+  position: absolute;
+  top: calc(50% - 12px);
+  line-height: 150%;
+}
+.hackhoundgmailcom {
+  right: 0;
+  display: inline-block;
+  width: 378px;
+}
+.email {
+  left: 0;
+  text-align: left;
+}
+.hackhoundgmailcom-parent {
+  align-self: stretch;
+  position: relative;
+  height: 24px;
+  flex-shrink: 0;
+}
+.group-parent {
+  position: absolute;
+  top: 135px;
+  left: 0;
+  width: 390px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 14px 18px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 22px;
+  text-align: right;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.profile {
+  position: relative;
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  background-image: url(./public/profile@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 35px;
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
