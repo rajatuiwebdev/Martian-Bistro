@@ -25,4 +25,4 @@ This project was created as a solution to the challenges facing restaurant opera
 
 
 
-Thanks for vieweing my project, have a nice day!
+Thanks for vieweing my project you can also have a look at it on [Devfolio](https://devfolio.co/projects/martianbistro-a7e5), have a nice day!
