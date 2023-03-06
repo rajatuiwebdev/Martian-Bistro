@@ -21,8 +21,8 @@ This project was created as a solution to the challenges facing restaurant opera
 <img width="333" alt="Screenshot 2023-03-05 at 9 41 36 AM" src="https://user-images.githubusercontent.com/111868309/222941280-49cae25b-fc62-40b6-893b-a077d181cb3b.png">
 
 
-[Martian-Bistro.pdf](https://github.com/rajatuiwebdev/Martian-Bistro/files/10890748/Martian-Bistro.pdf)
+[Martian-Bistro.pdf](https://github.com/rajatuiwebdev/Martian-Bistro/blob/02d779b08cd5ba6fbf14da815073e3284708ab9b/Martian-Bistro.pdf)
 
 
 
-Contact Us If you have any questions or concerns, please contact us at contact@martianbistro.com.
+Thanks for vieweing my project, have a nice day!
